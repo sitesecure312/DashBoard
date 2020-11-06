@@ -1,4 +1,4 @@
-# KongDash
+# Client DashBoard
 
 > An elegant desktop client for [Kong](https://getkong.org/) admin API
 
